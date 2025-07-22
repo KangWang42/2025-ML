@@ -58,6 +58,8 @@
 
 [Python编程 从入门到实践](01_ref_book/Python编程%20%20从入门到实践.pdf)
 
+[R数据科学](01_ref_book/R数据科学.pdf)
+
 [利用Python进行数据分析 (原书第2版)](01_ref_book/(美)韦斯·麦金尼作%20-%202018%20-%20利用Python进行数据分析%20%20原书第2版.pdf)
 
 [R机器学习：基于mlr3verse](01_ref_book/《R机器学习：基于mlr3verse》之mlr3-初稿.pdf)
@@ -72,7 +74,9 @@
 
 [机器学习-梁劲](01_ref_book/机器学习手册) 
 
-## 2.4 深度学习 [动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf)
+## 2.4 深度学习 
+
+[动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf)
 
 [深度学习入门：基于Python的理论与实现](01_ref_book/深度学习入门%20基于Python的理论与实现.pdf)
 
