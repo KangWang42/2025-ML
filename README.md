@@ -10,6 +10,7 @@
     -   [2.4 深度学习](#24-深度学习)
     -   [2.5 AI内容](#25-ai内容)
     -   [2.6 在线课程](#26-在线课程)
+     -  [2.7 其它内容](#27-其它内容)
 
 # 1 课程内容
 
@@ -76,6 +77,8 @@
 [深度学习入门：基于Python的理论与实现](01_ref_book/深度学习入门%20基于Python的理论与实现.pdf)
 
 ## 2.5 AI内容
+[AI应用专题](01_ref_book\09_others\02_AI使用)
+
 [perplexity](https://www.perplexity.ai/)
 
 [gemini](https://gemini.google.com/)
@@ -92,3 +95,9 @@
 [【机器学习】【白板推导系列】【合集 1～33】](https://www.bilibili.com/video/BV1aE411o7qd/?vd_source=45409eb880eaf527292a1abdfd9b2445)
 
 [DeepLearning进阶学习路径](https://github.com/Mikoto10032/DeepLearning)
+
+## 2.7 其它内容
+
+[计量社会科学课程](01_ref_book\09_others\01_计算社会科学课程)
+
+[AI应用专题](01_ref_book\09_others\02_AI使用)
