@@ -70,14 +70,14 @@
 
 [机器学习（南瓜书）](01_ref_book/机器学习（南瓜书）.pdf)
 
-[机器学习-梁劲](01_ref_book\\机器学习手册) 
+[机器学习-梁劲](01_ref_book/机器学习手册) 
 
 ## 2.4 深度学习 [动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf)
 
 [深度学习入门：基于Python的理论与实现](01_ref_book/深度学习入门%20基于Python的理论与实现.pdf)
 
 ## 2.5 AI内容
-[AI应用专题](01_ref_book\\09_others\\02_AI使用)
+[AI应用专题](01_ref_book/09_others/02_AI使用)
 
 [perplexity](https://www.perplexity.ai/)
 
@@ -98,6 +98,6 @@
 
 ## 2.7 其它内容
 
-[计量社会科学课程](01_ref_book\\09_others\\01_计算社会科学课程)
+[计量社会科学课程](01_ref_book/09_others/01_计算社会科学课程)
 
-[AI应用专题](01_ref_book\\09_others\\02_AI使用)
+[AI应用专题](01_ref_book/09_others/02_AI使用)
