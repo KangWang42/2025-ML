@@ -69,12 +69,20 @@
 
 [机器学习（南瓜书）](01_ref_book/机器学习（南瓜书）.pdf)
 
-[机器学习-梁劲](01_ref_book\机器学习手册) \## 2.4 深度学习 [动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf)
+[机器学习-梁劲](01_ref_book\机器学习手册) 
+
+## 2.4 深度学习 [动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf)
 
 [深度学习入门：基于Python的理论与实现](01_ref_book/深度学习入门%20基于Python的理论与实现.pdf)
 
 ## 2.5 AI内容
+[perplexity](https://www.perplexity.ai/)
 
+[gemini](https://gemini.google.com/)
+
+[chatgpt](https://chatgpt.com/)
+
+[claude](https://claude.ai/)
 ## 2.6 在线课程
 
 [《机器学习公式详解》西瓜书+南瓜书](https://www.bilibili.com/video/BV1FkrSYXEQP/?vd_source=45409eb880eaf527292a1abdfd9b2445)
