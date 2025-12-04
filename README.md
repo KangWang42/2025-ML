@@ -1,16 +1,17 @@
 # 目录
 
--   [1 课程内容](#1-课程内容)
-    -   [1.1 课程要求](#11-课程要求)
-    -   [1.2 课程大纲](#12-课程大纲)
--   [2 学习资料](#2-学习资料)
-    -   [2.1 数学基础](#21-数学基础)
-    -   [2.2 代码基础](#22-代码基础)
-    -   [2.3 机器学习](#23-机器学习)
-    -   [2.4 深度学习](#24-深度学习)
-    -   [2.5 AI内容](#25-ai内容)
-    -   [2.6 在线课程](#26-在线课程)
-     -  [2.7 其它内容](#27-其它内容)
+- [目录](#目录)
+- [1 课程内容](#1-课程内容)
+  - [1.1 课程要求](#11-课程要求)
+  - [1.2 课程大纲](#12-课程大纲)
+- [2 学习资料](#2-学习资料)
+  - [2.1 数学基础](#21-数学基础)
+  - [2.2 代码基础](#22-代码基础)
+  - [2.3 机器学习](#23-机器学习)
+  - [2.4 深度学习](#24-深度学习)
+  - [2.5 AI内容](#25-ai内容)
+  - [2.6 在线课程](#26-在线课程)
+  - [2.7 其它内容](#27-其它内容)
 
 # 1 课程内容
 
@@ -72,6 +73,7 @@
 
 [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
+[mlr3 book](https://mlr3book.mlr-org.com)
 ## 2.3 机器学习
 
 [机器学习（西瓜书）](01_ref_book/机器学习（西瓜书）.pdf)
@@ -95,7 +97,7 @@
 
 [perplexity](https://www.perplexity.ai/)
 
-[gemini](https://gemini.google.com/)
+[gemini：目前的gemini3好用](https://gemini.google.com/)
 
 [chatgpt](https://chatgpt.com/)
 
@@ -115,3 +117,7 @@
 [计量社会科学课程](01_ref_book/09_others/01_计算社会科学课程)
 
 [AI应用专题](01_ref_book/09_others/02_AI使用)
+
+[GIthub 课程形式](https://education.github.com/pack)
+
+
