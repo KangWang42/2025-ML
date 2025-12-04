@@ -1,4 +1,3 @@
-开心
-快乐
-好评
-很赞
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba6f3e69ace9bb388e631f3e024d0ec62b398a9b0247c3ef9bfd3f20954ad0b5
+size 20

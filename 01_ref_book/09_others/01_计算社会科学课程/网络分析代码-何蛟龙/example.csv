@@ -1,11 +1,3 @@
-from,to,weight
-1,5,1
-2,5,2
-2,6,1
-2,7,3
-3,4,3
-3,5,2
-4,5,1
-4,6,3
-4,7,1
-6,7,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda793147b34a21b1bbbd8d58ffad627ca1426b11710d7dd9281bf78a80bb5dc
+size 75
