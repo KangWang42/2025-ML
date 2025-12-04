@@ -118,6 +118,6 @@
 
 [AI应用专题](01_ref_book/09_others/02_AI使用)
 
-[GIthub 课程形式](https://education.github.com/pack)
+[GIthub 免费教育优惠](https://education.github.com/pack)
 
 
