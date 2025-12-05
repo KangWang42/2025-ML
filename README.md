@@ -1,27 +1,60 @@
-# 目录
+# 📚 2025-ML 机器学习学习班资料库
 
-- [目录](#目录)
-- [1 课程内容](#1-课程内容)
-  - [1.1 课程要求](#11-课程要求)
-  - [1.2 课程大纲](#12-课程大纲)
-- [2 学习资料](#2-学习资料)
-  - [2.1 数学基础](#21-数学基础)
-  - [2.2 代码基础](#22-代码基础)
-  - [2.3 机器学习](#23-机器学习)
-  - [2.4 深度学习](#24-深度学习)
-  - [2.5 AI内容](#25-ai内容)
-  - [2.6 在线课程](#26-在线课程)
-  - [2.7 其它内容](#27-其它内容)
+> **中山大学星星点灯课题组 · 机器学习与深度学习实战班**
 
-# 1 课程内容
+---
 
-该库为中山大学星星点灯课题组-机器学习学习班资料库
+## 📑 快速导航
 
-## 1.1 课程要求 
-- **课程目标**：掌握机器学习与深度学习核心模型的基本原理、代码实现、结果报告，提升复杂医学数据建模能力与科研实践水平。 
-- **课程形式**：本课程共16讲（48学时），采用问题驱动教学法（医学问题→传统方法局限→代码实现→方法原理）。每节课须提前准备PPT、典型案例、完整代码（有详细注释）
+- [🎯 项目简介](#项目简介)
+- [📋 课程内容](#课程内容)
+  - [课程要求](#课程要求)
+  - [课程大纲](#课程大纲)
+- [📚 学习资料](#学习资料)
+  - [数学基础](#数学基础)
+  - [代码基础](#代码基础)
+  - [机器学习](#机器学习)
+  - [深度学习](#深度学习)
+  - [AI 应用](#ai-应用)
+  - [在线课程](#在线课程)
+  - [其他资源](#其他资源)
+- [🛠️ 开发指南](#开发指南)
+- [👥 贡献指南](#贡献指南)
+- [❓ 常见问题](#常见问题)
 
-## 1.2 课程大纲
+---
+
+## 🎯 项目简介
+
+本项目是中山大学星星点灯课题组组织的 **机器学习与深度学习实战班** 资料库。通过系统的讲座、完整的代码实现和丰富的案例，帮助学员掌握传统机器学习、深度学习的核心原理与实战应用，提升复杂医学数据建模能力。
+
+### 项目特色
+
+✨ **理论 + 实践**  
+每讲内容遵循"医学问题→传统方法局限→代码实现→方法原理"的教学递进逻辑
+
+🎓 **系统化课程**  
+16 讲 48 学时的完整体系，从基础框架到深度学习应用
+
+💻 **生产级代码**  
+所有代码遵循专业编码规范，包含详细注释，可直接用于科研项目
+
+📊 **医学数据为导向**  
+以真实医学问题为案例，解决缺失值、不平衡数据等常见挑战
+
+---
+
+## 📋 课程内容
+
+### 课程要求 
+- **🎯 课程目标**  
+  掌握机器学习与深度学习核心模型的基本原理、代码实现、结果报告，提升复杂医学数据建模能力与科研实践水平。
+
+- **📝 课程形式**  
+  共 **16 讲（48 学时）**，采用 **问题驱动教学法**：医学问题 → 传统方法局限 → 代码实现 → 方法原理  
+  每讲包含 PPT、典型案例、完整代码（详细注释）
+
+### 课程大纲
 | 课程序号  | 课程内容               | 主讲人 | 主持人 | 授课日期       |
 |-------|--------------------|-----|-----|------------|
 | 第1讲   | [机器学习核心框架与数学基础](02_proj_code/01_机器学习框架)      | 马兴华 | 费懿  | 2025-09-14 |
@@ -45,79 +78,251 @@
 | 第16讲  | 深度学习总结与项目实战        | 曾澄波 | 马兴华 | 2026-01-08 |
 
 
-# 2 学习资料
+---
 
-## 2.1 数学基础
+## 📚 学习资料
 
-[高等数学_李忠](01_ref_book/高等数学_李忠.zip)
+### 数学基础
 
-[普林斯顿微积分读本(修订版)](01_ref_book/普林斯顿微积分读本(修订版)%20(阿德里安．班纳%20(Adrian%20Banner))%20(Z-Library).pdf)
+**掌握数学基础，理解机器学习本质**
 
-[线性代数及其应用 (Lay 等)](01_ref_book/Lay%20等%20-%202018%20-%20线性代数及其应用.pdf)
+- 📖 [高等数学_李忠](01_ref_book/高等数学_李忠.zip) - 微积分基础
+- 📖 [普林斯顿微积分读本(修订版)](01_ref_book/普林斯顿微积分读本(修订版)%20(阿德里安．班纳%20(Adrian%20Banner))%20(Z-Library).pdf) - 应用微积分
+- 📖 [线性代数及其应用 (Lay 等)](01_ref_book/Lay%20等%20-%202018%20-%20线性代数及其应用.pdf) - 矩阵代数
+- 📖 [线性代数引论 (原书第5版)](01_ref_book/线性代数引论%20%20翻译版%20%20原书第5版=Introduction%20to%20Linea.pdf) - 线性空间
 
-[线性代数引论 (原书第5版)](01_ref_book/线性代数引论%20%20翻译版%20%20原书第5版=Introduction%20to%20Linea.pdf)
+### 代码基础
 
-## 2.2 代码基础
+**Python 与 R 编程语言**
 
-[Python学习手册](01_ref_book/（美）鲁特兹%20-%202009%20-%20Python学习手册.pdf)
+| 资料 | 重点 |
+|-----|------|
+| 📖 [Python学习手册](01_ref_book/（美）鲁特兹%20-%202009%20-%20Python学习手册.pdf) | Python 基础语法 |
+| 📖 [Python编程 从入门到实践](01_ref_book/Python编程%20%20从入门到实践.pdf) | 项目实战 |
+| 📖 [R数据科学](01_ref_book/R数据科学.pdf) | Tidyverse 流程 |
+| 📖 [利用Python进行数据分析 (原书第2版)](01_ref_book/(美)韦斯·麦金尼作%20-%202018%20-%20利用Python进行数据分析%20%20原书第2版.pdf) | Pandas 数据处理 |
+| 📖 [R语言mlr3教程](01_ref_book/01_mlr3verse学习) | mlr3 机器学习框架 |
+| 📖 [R机器学习：基于mlr3verse](01_ref_book/《R机器学习：基于mlr3verse》之mlr3-初稿.pdf) | mlr3 详解 |
+| 🔗 [Deep Learning with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) | PyTorch 深度学习 |
+| 🔗 [mlr3 官方书籍](https://mlr3book.mlr-org.com) | 最新参考 |
 
-[Python编程 从入门到实践](01_ref_book/Python编程%20%20从入门到实践.pdf)
+### 机器学习
 
-[R数据科学](01_ref_book/R数据科学.pdf)
+**经典教材与参考书**
 
-[利用Python进行数据分析 (原书第2版)](01_ref_book/(美)韦斯·麦金尼作%20-%202018%20-%20利用Python进行数据分析%20%20原书第2版.pdf)
+| 资料 | 描述 |
+|-----|------|
+| 📖 [机器学习（西瓜书）](01_ref_book/机器学习（西瓜书）.pdf) | 周志华经典著作 |
+| 📖 [机器学习（南瓜书）](01_ref_book/机器学习（南瓜书）.pdf) | 西瓜书公式详解 |
+| 📖 [机器学习-梁劲](01_ref_book/机器学习手册) | 实战手册 |
+| 📖 [统计学习方法（第2版）](01_ref_book/机器学习方法.pdf) | 李航算法详解 |
 
-[R语言mlr3教程](01_ref_book/01_mlr3verse学习)
+### 深度学习
 
-[R机器学习：基于mlr3verse](01_ref_book/《R机器学习：基于mlr3verse》之mlr3-初稿.pdf)
+**神经网络与深度学习**
 
-[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+| 资料 | 重点 |
+|-----|------|
+| 📖 [动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf) | PyTorch 实现 |
+| 📖 [深度学习入门：基于Python的理论与实现](01_ref_book/深度学习入门%20基于Python的理论与实现.pdf) | 从零开始 |
 
-[mlr3 book](https://mlr3book.mlr-org.com)
-## 2.3 机器学习
+### AI 应用
 
-[机器学习（西瓜书）](01_ref_book/机器学习（西瓜书）.pdf)
+**生成式 AI 与大模型**
 
-[机器学习（南瓜书）](01_ref_book/机器学习（南瓜书）.pdf)
+| 工具 | 特点 |
+|-----|------|
+| 🤖 [Perplexity](https://www.perplexity.ai/) | 搜索驱动的 AI |
+| 🤖 [Google Gemini](https://gemini.google.com/) | 多模态能力强 |
+| 🤖 [ChatGPT](https://chatgpt.com/) | 行业标杆 |
+| 🤖 [Claude](https://claude.ai/) | 逻辑推理优秀 |
 
-[机器学习-梁劲](01_ref_book/机器学习手册) 
+📁 **完整专题**：[AI应用专题](01_ref_book/09_others/02_AI使用)
 
-[统计学习方法（第2版）](01_ref_book/机器学习方法.pdf)
+### 在线课程
 
+**视频讲座与教学资源**
 
+- 🎬 [《机器学习公式详解》西瓜书+南瓜书](https://www.bilibili.com/video/BV1FkrSYXEQP/?vd_source=45409eb880eaf527292a1abdfd9b2445) - 公式推导
+- 🎬 [十分钟机器学习系列视频](https://www.bilibili.com/video/BV1No4y1o7ac/) - 统计学习方法
+- 🎬 [【机器学习】【白板推导系列】【合集 1～33】](https://www.bilibili.com/video/BV1aE411o7qd/?vd_source=45409eb880eaf527292a1abdfd9b2445) - 完整系列
+- 🔗 [DeepLearning进阶学习路径](https://github.com/Mikoto10032/DeepLearning) - GitHub 资源
 
-## 2.4 深度学习 
+### 其他资源
 
-[动手学深度学习](01_ref_book/动手学深度学习%20(阿斯顿·张%20(Aston%20Zhang),%20李沐%20(Mu%20Li)%20etc.)%20(Z-Library).pdf)
+| 资源 | 说明 |
+|-----|------|
+| 📁 [计量社会科学课程](01_ref_book/09_others/01_计算社会科学课程) | 应用案例 |
+| 📁 [AI应用专题](01_ref_book/09_others/02_AI使用) | 工具教程 |
+| 🎓 [GitHub 免费教育优惠](https://education.github.com/pack) | 开发者福利 |
 
-[深度学习入门：基于Python的理论与实现](01_ref_book/深度学习入门%20基于Python的理论与实现.pdf)
+---
 
-## 2.5 AI内容
-[AI应用专题](01_ref_book/09_others/02_AI使用)
+## 🛠️ 开发指南
 
-[perplexity](https://www.perplexity.ai/)
+### 项目结构
 
-[gemini：目前的gemini3好用](https://gemini.google.com/)
+```
+2025-ML/
+├── README.md              # 项目总览（本文件）
+├── INSTRUCTIONS.md        # 📋 编码与协作规范（必读）
+├── LICENSE                # MIT 许可证
+├── 01_ref_book/           # 参考资料库
+├── 02_proj_code/          # 📊 讲座代码（核心）
+│   ├── 01_机器学习框架/
+│   ├── 02_数据预处理/
+│   ├── ... (16讲)
+│   └── 16_深度学习总结与项目实战/
+└── 99_others/             # 其他资源
+```
 
-[chatgpt](https://chatgpt.com/)
+### 快速开始
 
-[claude](https://claude.ai/)
-## 2.6 在线课程
+#### 1️⃣ 克隆仓库
+```bash
+git clone https://github.com/KangWang42/2025-ML.git
+cd 2025-ML
+```
 
-[《机器学习公式详解》西瓜书+南瓜书](https://www.bilibili.com/video/BV1FkrSYXEQP/?vd_source=45409eb880eaf527292a1abdfd9b2445)
+#### 2️⃣ 安装依赖
 
-[十分钟机器学习系列视频-统计学习方法》](https://www.bilibili.com/video/BV1No4y1o7ac/)
+**R 环境**
+```r
+# 安装必要包
+packages <- c("tidyverse", "mlr3", "mlr3learners", "ggplot2")
+install.packages(packages)
+```
 
-[【机器学习】【白板推导系列】【合集 1～33】](https://www.bilibili.com/video/BV1aE411o7qd/?vd_source=45409eb880eaf527292a1abdfd9b2445)
+**Python 环境**
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn pytorch
+```
 
-[DeepLearning进阶学习路径](https://github.com/Mikoto10032/DeepLearning)
+#### 3️⃣ 学习第一讲
+```bash
+cd 02_proj_code/01_机器学习框架
+# 打开 README.md 了解讲座内容
+# 运行 .R 或 .py 文件进行演练
+```
 
-## 2.7 其它内容
+### 编码规范
 
-[计量社会科学课程](01_ref_book/09_others/01_计算社会科学课程)
+⚠️ **重要**：请阅读 [`INSTRUCTIONS.md`](./INSTRUCTIONS.md) 了解详细规范，包括：
 
-[AI应用专题](01_ref_book/09_others/02_AI使用)
+✅ R/Python 编码风格  
+✅ 变量命名约定  
+✅ 文件组织结构  
+✅ Git 提交规范  
+✅ 代码审查流程  
 
-[GIthub 免费教育优惠](https://education.github.com/pack)
+### 运行测试
+
+```bash
+# R 测试
+Rscript -e 'testthat::test_dir("tests")'
+
+# Python 测试
+pytest tests/ -v
+```
+
+---
+
+## 👥 贡献指南
+
+我们欢迎讲师、学员和社区成员的贡献！
+
+### 如何参与
+
+1. **Fork** 本仓库
+2. 创建功能分支：`git checkout -b feature/your-feature`
+3. 提交变更：`git commit -m "feat: your change description"`
+4. 推送分支：`git push origin feature/your-feature`
+5. 提交 **Pull Request** (PR)
+
+### 贡献类型
+
+- 📝 新增讲座内容或教学案例
+- 🐛 修复代码 bug
+- 📚 改进文档或添加示例
+- 🎨 优化代码风格或性能
+- ❓ 提出新想法或改进建议
+
+### 代码审查
+
+所有 PR 需要通过以下检查：
+- ✅ 遵循 `INSTRUCTIONS.md` 规范
+- ✅ 代码有详细注释
+- ✅ 通过单元测试
+- ✅ 文档完整
+
+---
+
+## ❓ 常见问题
+
+### Q: 我是初学者，从哪里开始？
+**A:** 
+1. 阅读 README.md 了解项目结构
+2. 学习 `01_ref_book` 中的数学基础
+3. 从 `02_proj_code/01_机器学习框架` 开始第一讲
+4. 参考 `INSTRUCTIONS.md` 了解编码规范
+
+### Q: 如何提交作业或答案？
+**A:** 
+1. 在对应讲座目录创建 `my_solutions` 文件夹
+2. 按命名规范创建文件（如 `01_my_solution.R`）
+3. 提交 PR，标题为 `[Lecture-XX] [Your Name] Solution`
+
+### Q: 代码运行出错，怎么办？
+**A:** 
+1. 查看错误信息和 traceback
+2. 检查依赖包是否正确安装
+3. 在 `Issues` 中搜索是否有相同问题
+4. 提交新 Issue 详细描述问题
+
+### Q: 如何联系课程组织者？
+**A:** 
+- 📧 提交 Issue 和 Pull Request
+- 📍 参考课程大纲中各讲座的主讲人和主持人
+- 💬 讨论课题组内部通讯平台
+
+---
+
+## 📊 项目统计
+
+![Stars](https://img.shields.io/github/stars/KangWang42/2025-ML)
+![Forks](https://img.shields.io/github/forks/KangWang42/2025-ML)
+![Issues](https://img.shields.io/github/issues/KangWang42/2025-ML)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## 📜 许可证
+
+本项目采用 **MIT License**。详见 [`LICENSE`](./LICENSE) 文件。
+
+---
+
+## 🙏 致谢
+
+感谢所有讲师、助教和学员的贡献！
+
+特别感谢：
+- 课程组织：马兴华、费懿、李伟栋等
+- 内容制作：所有讲座主讲人
+- 技术支持：课题组成员
+
+---
+
+**最后更新**：2025-12-05  
+**维护者**：2025-ML 学习班 ([KangWang42](https://github.com/KangWang42))  
+**联系方式**：通过 Issues 和 Pull Requests 联系
+
+<div align="center">
+
+### 🚀 开始你的机器学习与深度学习之旅吧！
+
+[📖 阅读完整编码规范](./INSTRUCTIONS.md) | [🎓 开始第一讲](./02_proj_code/01_机器学习框架) | [💡 提交 Issue](../../issues)
+
+</div>
 
 
