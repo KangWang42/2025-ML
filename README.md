@@ -684,6 +684,8 @@ Fork 仓库
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KangWang42/2025-ML&type=Date)](https://star-history.com/#KangWang42/2025-ML&Date)
 
+<sub>图表可能需要几秒钟加载 | Chart may take a few seconds to load</sub>
+
 </div>
 
 ---
@@ -759,7 +761,7 @@ Fork 仓库
 
 ---
 
-**最后更新**: 2025-12-10  
+![GitHub last commit](https://img.shields.io/github/last-commit/KangWang42/2025-ML?label=最后更新)  
 **维护者**: 2025-ML 学习班 ([KangWang42](https://github.com/KangWang42))  
 **联系方式**: 通过 [Issues](../../issues) 和 [Pull Requests](../../pulls) 联系
 
