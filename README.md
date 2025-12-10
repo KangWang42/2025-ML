@@ -13,60 +13,11 @@
 [![学习资料](https://img.shields.io/badge/学习资料-50+-blue?style=for-the-badge)](./01_ref_book)
 [![代码示例](https://img.shields.io/badge/代码示例-40+-orange?style=for-the-badge)](./02_proj_code)
 
-**🌟 Star us on GitHub — it motivates us a lot!**
-
-[🎯 开始学习](#快速开始) • [📖 课程大纲](#课程大纲) • [💻 代码示例](./02_proj_code) • [🙋 加入讨论](../../discussions)
-
 </div>
 
 ---
 
-## 📑 快速导航
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🚀 [快速开始](#快速开始)
-立即开始学习
-
-</td>
-<td width="33%" align="center">
-
-### 📖 [课程大纲](#课程大纲)
-16讲完整体系
-
-</td>
-<td width="33%" align="center">
-
-### 💡 [学习资料](#学习资料)
-50+ 精选资源
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 [项目简介](#项目简介)
-了解课程特色
-
-</td>
-<td width="33%" align="center">
-
-### 🛠️ [开发指南](#开发指南)
-配置环境
-
-</td>
-<td width="33%" align="center">
-
-### ❓ [常见问题](#常见问题)
-解决疑惑
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎯 项目简介
 
